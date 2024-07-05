@@ -188,12 +188,6 @@ int main(int argc, char** argv) {
                 cout << totalCost << endl;
                 return 0;
                 
-
-                
-                
-                
-
-                
     }
     return 0;
 }
